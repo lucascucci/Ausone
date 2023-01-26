@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Advent+Pro:ital,wght@1,500&family=Oxygen:wght@300&family=Righteous&family=Roboto:wght@100&display=swap");
+
+.descrip {
+    font-family: "Oxygen", sans-serif;
+    font-size: 24px;
+    font-style: oblique;
+}
+
+.img {
+    width: 200px;
+    height: auto;
+}
+
+.titulo {
+    font-size: 40px;
+    background-color: beige;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.precio {
+    font-size: 30px;
+    font-family: "Oxygen", sans-serif;
+}
+
+.stock {
+    font-size: 16px;
+    font-family: "Oxygen", sans-serif;
+}

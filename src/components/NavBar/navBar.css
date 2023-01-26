@@ -1,0 +1,26 @@
+
+
+.ul{
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    color:rgb(177, 19, 19);
+    font-family: Arial, Helvetica, sans-serif, cursive;
+    background-color: rgba(82, 95, 35, 0.493);
+    padding: 0;
+}
+
+.ul .home {
+    color: rgb(206, 16, 16);
+    padding: 0%;
+    
+}
+
+.produ  {
+    font-size: 20px;
+    background-color: rgba(228, 121, 20, 0);
+    text-align: center;
+    display: flex;
+    padding: 0%;
+}

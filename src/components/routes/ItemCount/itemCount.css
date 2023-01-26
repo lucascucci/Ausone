@@ -1,0 +1,59 @@
+
+
+
+.contadorProducto {
+    text-align: center;
+    margin-top: 10em;
+    font-size: 20px;
+    display: block;
+    background: #e49fce02;
+    border: 2px solid #000;
+}
+
+.imgA {
+    background-size: cover;
+    object-fit:contain;
+}
+
+.botonMenos {
+    
+    padding: 1em;
+    background-color: rgb(215, 215, 223);
+    border: 2px solid #000;
+    margin:auto;
+    color: rgb(18, 117, 18);
+    display:inline-flex;
+    font-size: 15px;
+    
+}
+.botonMas {
+    
+    padding: 1em;
+    background-color: rgb(215, 215, 223);
+    border: 2px solid #000;
+    margin:auto;
+    color: rgb(18, 117, 18);
+    display:contents;
+    font-size: 15px;
+    display:inline-flex;
+    padding-left: 1em;
+    
+    
+}
+
+.boton2 {
+    background: #6f9e81;
+    display:contents;
+    font-size: 15px;
+    display:flex;
+    display:list-item;
+    color:rgb(255, 255, 255);
+}
+.boton1 {
+    background: #db0a2d;
+    display:contents;
+    font-size: 15px;
+    display:flex;
+    display:list-item;
+    color: aliceblue;
+}
